@@ -1,5 +1,6 @@
-# LLM Status Codes v1.0.0
+![LLM STATUS IMAGE](https://github.com/AI4Privacy/LLM_STATUS_CODES/assets/40600201/f4fc0aa9-6d7f-4a56-9dc6-3d29c39f17d5)
 
+# LLM Status Codes v1.0.0
 ## 1xx: LLM Health
 - **100**: Insufficient training (e.g., cannot predict common quotes)
 - **101**: Insufficient training material (e.g., not up-to-date before 2021)
