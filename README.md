@@ -13,8 +13,8 @@
 - **108**: Decoding Characters (e.g., \n \u0049 characters)
 
 ## 2xx: Successful Response
-- **200**: Base response (e.g., No action provided, even though action was expected.)
-- **201**: Partially fictional response (e.g., creative embellishments)
+- **200**: Base response (e.g., Acceptable Response.)
+- **201**: Partially fictional response (e.g., unecessary creative embellishments)
 - **202**: Approximate answer (e.g., close but not exact)
 - **203**: Correct answer, incorrect logic (e.g., right conclusion, wrong justification)
 - **204**: Excessive verbosity (e.g., overly detailed explanations)
