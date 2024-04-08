@@ -43,6 +43,7 @@
 - **415**: Called non-existing parameters (e.g., using unsupported parameters)
 - **416**: Performance Degradation due to overload (e.g., reduced quality under heavy load)
 - **417**: Disobedient (e.g., not following direct instructions)
+- **418**: Failed to extract relevant information from context (e.g., not noticing certain values, facts that would be beneficial for create a good response)
 
 ## 5xx: Human-Value Errors
 - **500**: Misalignment of human values (e.g., actions or responses contrary to ethical norms)
